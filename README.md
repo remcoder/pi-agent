@@ -6,7 +6,7 @@
    - free -h
    - pgrep -f octoprint
    - vcgencmd measure_temp
- - ask GPT what to make of this and wether to raise an alarm
+ - ask GPT what to make of this and whether to raise an alarm
  - send notification via Pushover
 
 
