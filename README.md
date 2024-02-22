@@ -11,7 +11,7 @@
 
 
 
-<img src="https://github.com/remcoder/pi-agent/assets/461650/604f182c-b838-4b75-bb16-8824d6e74fd0" width=300 />
+<img src="https://github.com/remcoder/pi-agent/assets/461650/94084cb5-d2be-4b66-9c6f-6af87dc8c042" width=300 />
 
 ```mermaid
 flowchart TD 
